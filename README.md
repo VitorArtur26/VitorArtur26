@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello World
+<a href="https://www.instagram.com/_ortiv/">
+  <img align="left" alt="Vitor's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
 
-<!--
-**VitorArtur26/VitorArtur26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi, I'm Vitor Artur, a systems analysis and development enthusiast from Brazil. my passion for software is taking ideas and turning them into reality with elegant and well-crafted interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**languages and tools:**
+  
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+
+
+ **my github stats:**📈
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorArtur26)](https://github.com/anuraghazra/github-readme-stats)
